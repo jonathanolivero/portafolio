@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "rol": "Developer Full Stack",
+    "description": "Design, code and test software programs and applications using various programming languages such as Java, C++, Python or Ruby. Collaborate with other programmers and developers to analyze user needs and design software solutions that meet those needs."
+  },
+  "experience": {
+    "firt-job-title": "Developer Back-End",
+    "firt-job-dates": "Enro 1995 - Enero 2000",
+    "firt-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "second-job-title": "Developer Front-End",
+    "second-job-dates": "Enro 1995 - Enero 2000",
+    "second-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "last-job-title": "Developer VSS",
+    "last-job-dates": "Enro 1995 - Enero 2000",
+    "last-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+}
